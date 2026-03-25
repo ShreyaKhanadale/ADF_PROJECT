@@ -1,0 +1,9 @@
+{
+	"name": "ShreyaDataFactoryProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a38f266-3d5f-43d1-a7c3-ca541e1fb5dd",
+		"tenantId": "dfe1d369-c9f0-48fa-8b6d-ecbd51ecb36a"
+	}
+}
